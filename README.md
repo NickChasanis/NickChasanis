@@ -2,6 +2,7 @@
 Hi there, my name is NickChasanis (Nikolaos) Chasanis. I am an Greek Software Developer. Realist & Creative, I'm a natural deep thinker 
 (I believe that with a good enough analysis of the problem you stop implementation errors from occuring hence the technical debt debate in our field, because everyone is too busy for it nowadays)
 
+<img src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/tron.jpg"/>
 
 ## Find me around the web 🌎
 
