@@ -19,17 +19,16 @@ I believe that with a good enough analysis of the problem you stop implementatio
 
 
 
-## Find me around the web 🌎
+## Have a chat with me
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChasanisNickos?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=ChasanisNickos)
 
 - [Twitter](https://twitter.com/ChasanisNickos)
 - [Linkedin](https://it.linkedin.com/in/nikolaoschasanis)
 
-## Tech stuff 🖥
-
-- [GitHub](https://github.com/NickChasanis)
-- [Medium](https://medium.com/@ChasanisNickos)
-- [dev discussions](https://dev.to/chasanisnickos)
+## Tech articles & More 🖥
 - [Personal Blog](https://nikolaoschasanis.com)
+- [Medium](https://medium.com/@ChasanisNickos)
+
 <!--
 **NickChasanis/NickChasanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
