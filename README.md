@@ -22,9 +22,11 @@ Very interested in metrics of all kinds because adding value is more vague that 
 
 
 ## Have a chat with me
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChasanisNickos?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=ChasanisNickos)
-
-- [Twitter](https://twitter.com/ChasanisNickos)
+  <p align="center">
+  <a href="https://GitHub.com/NickChasanis/ama"><img alt="AMA" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+  <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
+  <a href="https://www.linkedin.com/in/nikolaoschasanis"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
 - [Linkedin](https://it.linkedin.com/in/nikolaoschasanis)
 
 ## Tech articles & More 🖥
