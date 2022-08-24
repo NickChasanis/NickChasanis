@@ -6,8 +6,8 @@ I believe that with a good enough analysis of the problem you stop implementatio
 <img src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/tron.jpg" width="1000"/>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a target="_blank"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
 <a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
