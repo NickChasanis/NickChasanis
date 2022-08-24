@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nick (Nikolaos) Chasanis. I am a Software Developer, Usually Realist & Creative
+My name is Nick (Nikolaos) Chasanis. I am a Full Stack Software Developer, Usually Realist & Creative
 I believe that with a good enough analysis of the problem you stop implementation errors.
 
 Very interested in metrics of all kinds because adding value is more vague that we like to admit.
