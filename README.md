@@ -1,6 +1,8 @@
 ### Hi there 👋
-Hi there, my name is NickChasanis (Nikolaos) Chasanis. I am an Greek Software Developer. Realist & Creative
+My name is Nick (Nikolaos) Chasanis. I am a Software Developer, Usually Realist & Creative
 I believe that with a good enough analysis of the problem you stop implementation errors.
+
+Very interested about Metrics of all kind because adding value is more vague that we like to admit.
 
 
 <img src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/tron.jpg" width="1000"/>
