@@ -28,6 +28,10 @@ Very interested in metrics of all kinds because adding value is more vague that 
 - [Linkedin](https://it.linkedin.com/in/nikolaoschasanis)
 
 ## Tech articles & More 🖥
+<p align=left>
+Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> and <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"></a>
+</p>
+
 - [Personal Blog](https://nikolaoschasanis.com)
 - [Medium](https://medium.com/@ChasanisNickos)
 
