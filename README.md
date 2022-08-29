@@ -27,7 +27,6 @@ Very interested in metrics of all kinds because adding value is more vague that 
   <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
   <a href="https://www.linkedin.com/in/nikolaoschasanis"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
-- [Linkedin](https://it.linkedin.com/in/nikolaoschasanis)
 
 ## Tech articles & More 🖥
 <p align=left>
