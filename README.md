@@ -5,7 +5,7 @@ I believe that with a good enough analysis of the problem you stop implementatio
 Very interested in metrics of all kinds because adding value is more vague that we like to admit.
 
 
-<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/LandF.png" width="1000"/></a>
+<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/Githubcover.png" width="1000"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
