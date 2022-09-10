@@ -1,23 +1,25 @@
-### Hi there 👋
-My name is Nick (Nikolaos) Chasanis. I am a Full Stack Software Developer, Usually Realist & Creative
-I believe that with a good enough analysis of the problem you stop implementation errors.
+### ⚡ Nikolaos Chasanis ⚡
 
-Very interested in metrics of all kinds because adding value is more vague that we like to admit.
+<hr>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFFFF&width=435&lines=My+name+is+Nick+(Nikolaos)+Chasanis.+;+I+am+a+Full+Stack+Software+Developer%2C+Usually+Realist+%26+Creative+I+believe+that+with+a+good+enough+analysis+of+the+problem+you+stop+implementation+errors.;+Very+interested+in+metrics+of+all+kinds+because+adding+value+is+more+vague+that+we+like+to+admit.;because+adding+value+is+more+vague+that+we+like+to+admit." alt="Typing SVG"/> </a>
 
-<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/LandF.png" width="1000"/></a>
+<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/Githubcover.png" width="1000"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="_blank"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
-<a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
-<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgresql" width="40" height="40"/>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/></p>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a target="_blank"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/> </a>
+<a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgresql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> </a>
+</p>
 
 
 
