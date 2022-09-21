@@ -2,8 +2,7 @@
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFFFF&width=435&lines=My+name+is+Nick+(Nikolaos)+Chasanis.+;+I+am+a+Full+Stack+Software+Developer%2C+Usually+Realist+%26+Creative+I+believe+that+with+a+good+enough+analysis+of+the+problem+you+stop+implementation+errors.;+Very+interested+in+metrics+of+all+kinds+because+adding+value+is+more+vague+that+we+like+to+admit.;because+adding+value+is+more+vague+that+we+like+to+admit." alt="Typing SVG"/> </a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=My+name+is+Nick+(Nikolaos)+Chasanis.;I+am+a+Full+Stack+Software+Developer;Usually+Realist+%26+Creative;I+believe+that+with+a+good+enough+analysis;you+stop+implementation+errors" alt="Typing SVG" /></a>
 <a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/Githubcover.png" width="1000"/></a>
 
 
