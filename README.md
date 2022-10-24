@@ -2,8 +2,8 @@
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=My+name+is+Nick+(Nikolaos)+Chasanis.;I+am+a+Full+Stack+Software+Developer;Usually+Realist+%26+Creative;I+believe+that+with+a+good+enough+analysis;you+stop+implementation+errors" alt="Typing SVG" /></a>
-<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://raw.githubusercontent.com/NickChasanis/NickChasanis/master/Githubcover.png" width="1000"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=My+name+is+Nick+(Nikolaos)+Chasanis.;I+am+a+Full+Stack+Software+Engineer;Usually+Realist+%26+Creative;I+believe+that+with+a+good+enough+analysis;you+stop+implementation+errors" alt="Typing SVG" /></a>
+<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="./Githubcover.png" width="1000"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -34,20 +34,3 @@
 Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> and <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"></a>
 </p>
 
-- [Personal Blog](https://nikolaoschasanis.com)
-- [Medium](https://medium.com/@ChasanisNickos)
-
-<!--
-**NickChasanis/NickChasanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
