@@ -35,7 +35,7 @@ Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="ar
 </p>
 
 - [Personal Blog](https://nikolaoschasanis.com)
-- [Medium](https://medium.com/@ChasanisNickos)
+- [Medium](https://medium.com/@nikolaoschasanis)
 
 <!--
 **NickChasanis/NickChasanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
