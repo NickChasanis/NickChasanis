@@ -3,21 +3,22 @@
 <hr>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=If+you+don't+define+the+problem+properly;you+cant+solve+the+problem." alt="Typing SVG" /></a>
-<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="./Githubcover.png" width="1000"/></a>
+<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="https://autocomplete-assets.s3.nl-ams.scw.cloud/Github-photos/githubcover.nikolaoschasanis.com.svg" width="1500"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a target="_blank"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/> </a>
-<a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgresql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/typescript-icon-nikolaoschasanis.com.svg" alt="Typescript" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/logstash-icon-nikolaoschasanis.com.svg" alt="Logstash" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/kibana-icon-nikolaoschasanis.com.svg" alt="Kibana" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/nodejs-icon-nikolaoschasanis.com.svg" alt="nodejs" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/apollo-icon-nikolaoschasanis.com.svg" alt="apollo" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/graphql-icon-nikolaoschasanis.com.svg" alt="graphql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/postgresql-icon-nikolaoschasanis.com.svg" alt="Postgresql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
 </p>
 
 
