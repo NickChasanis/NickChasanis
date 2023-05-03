@@ -19,6 +19,8 @@
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/postgresql-icon-nikolaoschasanis.com.svg" alt="Postgresql" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
+
 </p>
 
 
@@ -28,7 +30,7 @@
   <a href="https://GitHub.com/NickChasanis/ama"><img alt="AMA" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
   <a href="https://discord.com/invite/3eJPwbrwqB"><img alt="Discord" src="https://img.shields.io/discord/1014893038008549386?logo=Discord"></a> 
   <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
-  <a href="https://www.linkedin.com/in/nikolaoschasanis/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nikolaos Chasanis-blue?style=flat-square&logo=Linkedin&logoColor=white src="&link=https://www.linkedin.com/in/nikolaoschasanis></a>
+  <a href="https://www.linkedin.com/in/nikolaoschasanis/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nikolaos Chasanis-blue?style=flat-square&logo=Linkedin&logoColor=white src="link=https://www.linkedin.com/in/nikolaoschasanis></a>
 
 ## Tech articles & More 🖥
 <p align=left>
