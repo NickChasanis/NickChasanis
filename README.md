@@ -8,6 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/astro-icon-nikolaoschasanis.com.svg" alt="Astro" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/typescript-icon-nikolaoschasanis.com.svg" alt="Typescript" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/> </a>
