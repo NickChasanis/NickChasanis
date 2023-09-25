@@ -26,14 +26,13 @@
 
 
 
-## Have a chat with me
-  <p align="center"> 
-  <a href="https://GitHub.com/NickChasanis/ama"><img alt="AMA" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
-  <a href="https://discord.com/invite/3eJPwbrwqB"><img alt="Discord" src="https://img.shields.io/discord/1014893038008549386?logo=Discord"></a> 
+## Connect with me 🌐
+  <p align="center">
+<a href="https://www.linkedin.com/in/nikolaoschasanis/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nikolaos Chasanis-blue?style=flat-square&logo=Linkedin&logoColor=white src="link=https://www.linkedin.com/in/nikolaoschasanis></a>
   <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
-  <a href="https://www.linkedin.com/in/nikolaoschasanis/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nikolaos Chasanis-blue?style=flat-square&logo=Linkedin&logoColor=white src="link=https://www.linkedin.com/in/nikolaoschasanis></a>
+   <a href="https://discord.com/invite/3eJPwbrwqB"><img alt="Discord" src="https://img.shields.io/discord/1014893038008549386?logo=Discord"></a> 
 
-## Tech articles & More 🖥
+## Tech articles & More 📰
 <p align=left>
 Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> and <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"></a>
 </p>
