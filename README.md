@@ -21,7 +21,7 @@
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
 <a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
-
+<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/google-maps.svg" alt="Scaleway" width="40" height="40"></a>
 </p>
 
 
