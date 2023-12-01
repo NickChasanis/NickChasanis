@@ -39,5 +39,5 @@ Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="ar
 
 # Recent Blog Posts
 <!--START_SECTION:feed-->
-* [🌀 The Ouroboros Architecture 🌀](https:&#x2F;&#x2F;https://nikolaoschasanis.com/the-ouroboros-architecture;)
+* [🌀 The Ouroboros Architecture 🌀](https://nikolaoschasanis.com/the-ouroboros-architecture)
 
