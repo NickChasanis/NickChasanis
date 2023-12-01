@@ -37,3 +37,7 @@
 Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> and <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"></a>
 </p>
 
+# Recent Blog Posts
+<!--START_SECTION:feed-->
+* [🌀 The Ouroboros Architecture 🌀](https:&#x2F;&#x2F;https://nikolaoschasanis.com/the-ouroboros-architecture;)
+
