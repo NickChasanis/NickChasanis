@@ -40,4 +40,7 @@ Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="ar
 # Recent Blog Posts
 <!--START_SECTION:feed-->
 * [🌀 The Ouroboros Architecture 🌀](https://nikolaoschasanis.com/the-ouroboros-architecture)
+* [You DONT have to do that extra Click. 🖱️](https://nikolaoschasanis.com/you-dont-have-to-do-that-extra-click)
+* [🕒 Calculate your Average Feature Shipment Time in a Full Stack World (FSW)](https://nikolaoschasanis.com/calculate-your-average-feature-shipment-time-in-a-full-stack-world-fsw)
+* [🤔 Estimation Chaos in a Full Stack World 🌍 (FSW)](https://nikolaoschasanis.com/estimation-chaos-in-a-full-stack-world-fsw )
 
