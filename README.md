@@ -1,5 +1,7 @@
 ### ⚡ Nikolaos Chasanis ⚡
 
+![](https://komarev.com/ghpvc/?username=nickchasanis&color=blue)
+
 <hr>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=If+you+don't+define+the+problem+properly;you+cant+solve+the+problem." alt="Typing SVG" /></a>
@@ -27,7 +29,7 @@
 
 
 ## Connect with me 🌐
-  <p align="center">
+  <p align="left">
 <a href="https://www.linkedin.com/in/nikolaoschasanis/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nikolaos Chasanis-blue?style=flat-square&logo=Linkedin&logoColor=white src="link=https://www.linkedin.com/in/nikolaoschasanis></a>
   <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
    <a href="https://discord.com/invite/3eJPwbrwqB"><img alt="Discord" src="https://img.shields.io/discord/1014893038008549386?logo=Discord"></a> 
