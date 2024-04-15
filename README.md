@@ -10,19 +10,20 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/astro-icon-nikolaoschasanis.com.svg" alt="Astro" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/typescript-icon-nikolaoschasanis.com.svg" alt="Typescript" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/logstash-icon-nikolaoschasanis.com.svg" alt="Logstash" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/kibana-icon-nikolaoschasanis.com.svg" alt="Kibana" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/nodejs-icon-nikolaoschasanis.com.svg" alt="nodejs" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/apollo-icon-nikolaoschasanis.com.svg" alt="apollo" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/graphql-icon-nikolaoschasanis.com.svg" alt="graphql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/postgresql-icon-nikolaoschasanis.com.svg" alt="Postgresql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
-<a target="_blank"> <img src="https://autocomplete-assets.s3.nl-ams.scw.cloud/tech-icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
+<a target="_blank"> <img src="assets/icons/astro-icon-nikolaoschasanis.com.svg" alt="Astro" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/typescript-icon-nikolaoschasanis.com.svg" alt="Typescript" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/logstash-icon-nikolaoschasanis.com.svg" alt="Logstash" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/kibana-icon-nikolaoschasanis.com.svg" alt="Kibana" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/nodejs-icon-nikolaoschasanis.com.svg" alt="nodejs" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/apollo-icon-nikolaoschasanis.com.svg" alt="apollo" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/graphql-icon-nikolaoschasanis.com.svg" alt="graphql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/postgresql-icon-nikolaoschasanis.com.svg" alt="Postgresql" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
+<a target="_blank"> <img src="assets/icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
+<a target="_blank"> <img src="assets/icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
+<a target="_blank"> <img src="assets/icons/google-maps-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
 
 </p>
 
