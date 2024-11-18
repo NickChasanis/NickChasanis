@@ -37,6 +37,6 @@
 
 ## Tech articles & More 📰
 <p align=left>
-Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> and <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"></a>
+Check my <a href="https://nikolaoschasanis.com/series/architecture"><img alt="articles" src="https://badgen.net/badge/icon/Articles?icon=chrome&label"></a> <a target="_blank"> <img src="assets/icons/hot.gif" alt="hot-icon" width="30" height="30"/> </a>  and <a target="_blank"> </a> <a href="https://nikolaoschasanis.com/series/tutorials"><img alt="tutorial" src="https://badgen.net/badge/icon/Tutorials?icon=chrome&label"> <a> <img src="assets/icons/hot.gif" alt="hot-icon" width="30" height="30"/> </a>
 </p>
 
