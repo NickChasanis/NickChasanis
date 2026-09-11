@@ -1,30 +1,31 @@
 ### ⚡ Nikolaos Chasanis ⚡
 
-![](https://komarev.com/ghpvc/?username=nickchasanis&color=blue)
+![](https://komarev.com/ghpvc/?username=NickChasanis&color=blue)
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=F7F7F7&width=435&lines=If+you+don't+define+the+problem+properly;you+cant+solve+the+problem." alt="Typing SVG" /></a>
-<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="assets/photos/LandFv2.png" width="1500"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=4300&pause=1000&color=6C63FF&width=435&lines=If+you+don't+define+the+problem+properly;you+cant+solve+the+problem." alt="Typing SVG" /></a>
+<a href="https://nikolaoschasanis.com"> <img alt="LandF" src="assets/photos/LandFv2.png" width="100%"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="_blank"> <img src="assets/icons/java-logo-nikolaoschasanis-com.svg" alt="Java" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/typescript-icon-nikolaoschasanis.com.svg" alt="Typescript" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/logstash-icon-nikolaoschasanis.com.svg" alt="Logstash" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/kibana-icon-nikolaoschasanis.com.svg" alt="Kibana" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/nodejs-icon-nikolaoschasanis.com.svg" alt="nodejs" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/apollo-icon-nikolaoschasanis.com.svg" alt="apollo" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/graphql-icon-nikolaoschasanis.com.svg" alt="graphql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/postgresql-icon-nikolaoschasanis.com.svg" alt="Postgresql" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
-<a target="_blank"> <img src="assets/icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
-<a target="_blank"> <img src="assets/icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
-<a target="_blank"> <img src="assets/icons/google-maps-icon-nikolaoschasanis.com.svg" alt="Google Maps" width="40" height="40"></a>
-<a target="_blank"> <img src="assets/icons/ai-agent-icon-nikolaoschasanis.com.svg" alt="AI Agent" width="40" height="40"/></a>
+<img src="assets/icons/java-logo-nikolaoschasanis-com.svg" alt="Java" width="40" height="40"/>
+<img src="assets/icons/typescript-icon-nikolaoschasanis.com.svg" alt="TypeScript" width="40" height="40"/>
+<img src="assets/icons/angular-icon-nikolaoschasanis.com.svg" alt="Angular" width="40" height="40"/>
+<img src="assets/icons/elasticsearch-icon-nikolaoschasanis.com.svg" alt="Elasticsearch" width="40" height="40"/>
+<img src="assets/icons/logstash-icon-nikolaoschasanis.com.svg" alt="Logstash" width="40" height="40"/>
+<img src="assets/icons/kibana-icon-nikolaoschasanis.com.svg" alt="Kibana" width="40" height="40"/>
+<img src="assets/icons/nodejs-icon-nikolaoschasanis.com.svg" alt="Node.js" width="40" height="40"/>
+<img src="assets/icons/apollo-icon-nikolaoschasanis.com.svg" alt="Apollo" width="40" height="40"/>
+<img src="assets/icons/graphql-icon-nikolaoschasanis.com.svg" alt="GraphQL" width="40" height="40"/>
+<img src="assets/icons/postgresql-icon-nikolaoschasanis.com.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="assets/icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/>
+<img src="assets/icons/github-actions-icon-nikolaoschasanis.com.svg" alt="GitHub Actions" width="40" height="40"/>
+<img src="assets/icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"/>
+<img src="assets/icons/google-maps-icon-nikolaoschasanis.com.svg" alt="Google Maps" width="40" height="40"/>
+<img src="assets/icons/ai-agent-icon-nikolaoschasanis.com.svg" alt="AI Agent" width="40" height="40"/>
+</p>
 
 </p>
 
