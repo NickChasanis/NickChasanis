@@ -23,7 +23,8 @@
 <a target="_blank"> <img src="assets/icons/docker-icon-nikolaoschasanis.com.svg" alt="Docker" width="40" height="40"/> </a>
 <a target="_blank"> <img src="assets/icons/github-actions-icon-nikolaoschasanis.com.svg" alt="Github Actions" width="40" height="40"></a>
 <a target="_blank"> <img src="assets/icons/scaleway-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
-<a target="_blank"> <img src="assets/icons/google-maps-icon-nikolaoschasanis.com.svg" alt="Scaleway" width="40" height="40"></a>
+<a target="_blank"> <img src="assets/icons/google-maps-icon-nikolaoschasanis.com.svg" alt="Google Maps" width="40" height="40"></a>
+<a target="_blank"> <img src="assets/icons/ai-agent-icon-nikolaoschasanis.com.svg" alt="AI Agent" width="40" height="40"/></a>
 
 </p>
 
